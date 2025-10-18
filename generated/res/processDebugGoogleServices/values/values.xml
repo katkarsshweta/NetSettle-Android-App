@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">777728267560</string>
+    <string name="google_api_key" translatable="false">AIzaSyAhwpuak-C7RkQ99lQy6RXEmYj_sp-gOCw</string>
+    <string name="google_app_id" translatable="false">1:777728267560:android:28f3e989b7065ca82d2c1d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAhwpuak-C7RkQ99lQy6RXEmYj_sp-gOCw</string>
+    <string name="google_storage_bucket" translatable="false">netsettle-3b492.appspot.com</string>
+    <string name="project_id" translatable="false">netsettle-3b492</string>
+</resources>
