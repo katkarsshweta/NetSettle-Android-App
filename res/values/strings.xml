@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">NetSettle</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forgot_pass"><u>Forgot Password ?</u></string>
+    <string name="next"><u>next</u></string>
+    <string-array name="secretQ">
+        <item>Select secret question</item>
+        <item>What is the name of your best friend?</item>
+        <item>What is your favourite color?</item>
+        <item>what is your dream destination?</item>
+        <item>What is the name of your favourite teacher?</item>
+    </string-array>
+    <string-array name="payment_modes">
+        <item>Cash</item>
+        <item>Online</item>
+        <item>Others</item>
+    </string-array>
+
+
+    <string-array name="category">
+        <item>Food</item>
+        <item>Shopping</item>
+        <item>Health</item>
+        <item>Petrol</item>
+        <item>Grocery</item>
+        <item>Rent</item>
+        <item>Bills</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="ornament_type">
+        <item>Gold</item>
+        <item>Silver</item>
+        <item>Platinum</item>
+        <item>Diamond</item>
+    </string-array>
+
+    <string-array name="realestate_type">
+        <item>Flat</item>
+        <item>Agricultural Land</item>
+        <item>Non Agricultural Land</item>
+        <item>Commercial</item>
+    </string-array>
+
+    <string-array name="vehicle_type">
+        <item>Commercial 3 wheeler</item>
+        <item>Commercial 4 wheeler</item>
+        <item>Personal 2 wheeler</item>
+        <item>Personal 4 wheeler</item>
+    </string-array>
+
+    <string-array name="money_type">
+        <item>Cash</item>
+        <item>Bank Savings</item>
+        <item>Pension</item>
+        <item>Fixed Deposits</item>
+    </string-array>
+</resources>

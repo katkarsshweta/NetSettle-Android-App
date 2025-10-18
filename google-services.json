@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777728267560",
+    "project_id": "netsettle-3b492",
+    "storage_bucket": "netsettle-3b492.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777728267560:android:28f3e989b7065ca82d2c1d",
+        "android_client_info": {
+          "package_name": "com.example.netsettle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhwpuak-C7RkQ99lQy6RXEmYj_sp-gOCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

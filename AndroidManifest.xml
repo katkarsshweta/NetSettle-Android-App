@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NetSettle"
+        tools:targetApi="31">
+        <activity
+            android:name=".SearchAsset"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".money_next"
+            android:exported="false" />
+        <activity
+            android:name=".vehicle_next"
+            android:exported="false" />
+        <activity
+            android:name=".realestate_next"
+            android:exported="false" />
+        <activity
+            android:name=".ornament_next"
+            android:exported="false" />
+        <activity
+            android:name=".page4"
+            android:exported="false" />
+        <activity
+            android:name=".page3"
+            android:exported="false" />
+        <activity
+            android:name=".page2"
+            android:exported="false" />
+        <activity
+            android:name=".money"
+            android:exported="false" />
+        <activity
+            android:name=".vehicle"
+            android:exported="false" />
+        <activity
+            android:name=".realestate"
+            android:exported="false" />
+        <activity
+            android:name=".ornament"
+            android:exported="false" />
+        <activity
+            android:name=".editprofile"
+            android:exported="false" />
+<!--        <activity-->
+<!--            android:name=".personalpage"-->
+<!--            android:exported="false" />-->
+        <activity
+            android:name=".assetpage"
+            android:exported="false" />
+        <activity
+            android:name=".ss"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".assetFragment"
+            android:exported="false" />
+        <activity
+            android:name=".changepass"
+            android:exported="false" />
+        <activity
+            android:name=".forg1"
+            android:exported="false" />
+        <activity
+            android:name=".friendsFragment"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".logsignup"
+            android:exported="false" />
+        <activity
+            android:name=".personalFragment"
+            android:exported="false" />
+        <activity
+            android:name=".profileFragment"
+            android:exported="false" />
+        <activity
+            android:name=".su1"
+            android:exported="false" />
+        <activity
+            android:name=".su2"
+            android:exported="false" />
+        <activity
+            android:name=".su3"
+            android:exported="false" />
+        <activity
+            android:name=".su4"
+            android:exported="false" />
+        <activity
+            android:name=".su5"
+            android:exported="false" />
+        <activity
+            android:name=".su6"
+            android:exported="false" />
+        <activity
+            android:name=".su7"
+            android:exported="false" />
+    </application>
+
+</manifest>
